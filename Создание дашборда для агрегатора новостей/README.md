@@ -11,3 +11,5 @@
 Python, dash, SQLAlchemy, PostrgeSQL, Tableau
 
 продуктовые метрики, построение дашбордов
+
+[Ссылка на дашборд](https://public.tableau.com/views/dash_visits_bel/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)
